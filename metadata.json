@@ -1,0 +1,6 @@
+{
+  "name": "MountainHeights - Early Childhood Academy",
+  "description": "Official website for MountainHeights (inspired by Phulwari Heights School), premier preschool and kindergarten featuring interactive learning, admissions, campus tours, and daycare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
